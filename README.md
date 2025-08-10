@@ -1,4 +1,4 @@
-# Chatbot_using_RAG
+# Chatbot using RAG
 
 This project is a domain-specific chatbot built for the **School of Interdisciplinary Engineering & Sciences (SINES)** at **NUST**. It leverages **Retrieval-Augmented Generation (RAG)** with OpenAI’s **GPT-3.5 Turbo** as the Large Language Model (LLM), and is designed to assist students, faculty, and visitors by answering queries about SINES using officially sourced and manually collected data.
 
